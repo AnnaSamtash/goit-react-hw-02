@@ -1,0 +1,24 @@
+.plum {
+    color: plum;
+}
+
+.greenyellow {
+    color: greenyellow;
+}
+
+.descr_container {
+    width: 600px;
+    text-align: start;
+    margin-bottom: 24px;
+}
+
+.descr_title {
+    font-weight: 600;
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+
+.descr_text {
+    font-weight: 400;
+    font-size: 16px;
+}

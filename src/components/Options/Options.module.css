@@ -1,0 +1,13 @@
+.option_container {
+    margin-bottom: 24px;
+    padding: 12px 6px;
+    width: 260px;
+    display: flex;
+    column-gap: 6px;
+    justify-content: start;
+}
+
+.option_btn {
+    border-radius: 3px;
+    padding: 6px;
+}
